@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DALE-GH
 - 👀 I’m interested in Java implimintation within the Spigot API & minecraft servers
-- 🌱 I’m currently learning more Java, Python, C
+- 🌱 I’m currently learning more Java, Python, C, & attempting JS *eek*
 - 💞️ I’m looking to collaborate on anything you wish, give me a shout on Discord!
 - 📫 You can contact me via - linktr.ee/dale_lt
 
