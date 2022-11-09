@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java implimintation within the Spigot API & minecraft servers
 - 🌱 I’m currently learning more Java, Python, C, & attempting JS *eek*
 - 💞️ I’m looking to collaborate on anything you wish, give me a shout on Discord!
-- 📫 You can contact me via - linktr.ee/dale_lt
+- 📫 You can contact me via - linktr.ee/dale_lt /DISCORD DALE#8521
 
 <!---
 DALE-GH/DALE-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
